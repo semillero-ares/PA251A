@@ -4,7 +4,7 @@ Repositorio de archivos del desarrollo del proyecto de Electroerosión.
 ---
 
 ## 📄 Anteproyecto
-- [Anteproyecto EDM - Estudio de Factibilidad.pdf](docs/anteproyecto/anteproyecto_edm.pdf)
+- [Anteproyecto EDM](docs/_assets/BayonaNelson_anteproyecto_electroerosion.docx)
 - [Presentación Anteproyecto.pptx](docs/anteproyecto/presentacion_anteproyecto.pptx)
 s
 ---

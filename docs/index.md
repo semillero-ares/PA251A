@@ -1,17 +1,27 @@
 # Inicio
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 🌟 Introducción
+Proyecto académico-tecnológico para el diseño y construcción de una máquina de Electroerosión por Penetración (EDM Sinker), desarrollado como iniciativa de investigación aplicada en mecanizado de metales duros.
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 👥 Equipo del Proyecto
 
-## Project layout
+### Investigador Principal
+**Nelson Bayona**  
+*Estudiante de Ingeniería Física*  
+📧 [njbayonaa@eafit.edu.co](mailto:nelson.baayona@email.com)  
+🔗 [Perfil GitHub](https://github.com/NelsonBayona)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Tutor Académico
+**Dr. Danvison Castaño**   
+📧 [dcasta25@eafit.edu.co](mailto:dcasta25@eafit.edu.co)  
+
+---
+
+## 📚 Contexto del Proyectto
+**Área de aplicación:**  
+Manufactura avanzada, prototipado rápido y educación en tecnologías de mecanizado no convencional.
+
+**Relevancia académica:**  
+- Proyecto para la materia avanzado I
