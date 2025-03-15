@@ -1,7 +1,7 @@
 # Inicio
 
 ## 🌟 Introducción
-Proyecto académico-tecnológico para el diseño y construcción de una máquina de Electroerosión por Penetración (EDM Sinker), desarrollado como iniciativa de investigación aplicada en mecanizado de metales duros.
+Proyecto académico para el diseño y construcción de una máquina de Electroerosión por Penetración (EDM), desarrollado para la materia avanzado I de la carrera Ingeniería Física de la Universidad EAFIT (Medellín-Colombia)
 
 ---
 
