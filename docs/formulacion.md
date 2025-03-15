@@ -14,7 +14,7 @@ Proyecto personal para construir una máquina de Electroerosión (EDM) de tipo s
 ## 🚀 Últimos Avances (Changelog)
 
 ### Versión 0.2 - Marzo 2025
-- ✅ Diseño de circuito finalizado
+- ✅ Diseño de circuito finalizados
 - ✅ Primer avance Finalizado.
 - 🛠️ En desarrollo: Construcción del Circuito eléctrico
 
