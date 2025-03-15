@@ -1,5 +1,5 @@
 # Documentación
-Repositorio de archivos clave del desarrollo del proyecto de Electroerosión.
+Repositorio de archivos del desarrollo del proyecto de Electroerosión.
 
 ---
 
