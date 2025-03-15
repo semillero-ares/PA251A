@@ -1,7 +1,7 @@
 # Inicio
 
 ## 🌟 Introducción
-Proyecto académico para el diseño y construcción de una máquina de Electroerosión por Penetración (EDM), desarrollado para la materia avanzado I de la carrera Ingeniería Física de la Universidad EAFIT (Medellín-Colombia)
+Proyecto académico para el diseño y construcción de una máquina de Electroerosión por Penetración (EDM), desarrollado para la materia avanzado I de la carrera Ingeniería Física de la Universidad EAFIT (Medellín-Colombia).
 
 ---
 
