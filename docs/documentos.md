@@ -4,26 +4,22 @@ Repositorio de archivos del desarrollo del proyecto de Electroerosión.
 ---
 
 ## 📄 Anteproyecto
-- [Anteproyecto EDM](_assets/BayonaNelson_anteproyecto_electroerosion.docx)
-- [Presentación Anteproyecto.pptx](docs/anteproyecto/presentacion_anteproyecto.pptx)
-s
+- [Anteproyecto EDM.docx](_assets/BayonaNelson_anteproyecto_electroerosion.docx)
+- [Presentación Anteproyecto.pptx](_assets/BayonaNelson_avance.pptx)
 ---
 
 ## 📈 Avances del Proyecto
 
 ### Primer Avance
-- [Reporte Técnico - Fase 1.pdf](docs/avances/avance1_report.pdf)
-- [Presentación Primer Avance.pptx](docs/avances/avance1_presentation.pptx)
+- [Presentación Primer Avance.pptx](_assets/BayonaNelson_anteproyecto_avance.pptx)
 
 ### Segundo Avance
-- [Reporte Técnico - Fase 2.pdf](docs/avances/avance2_report.pdf)
 - [Presentación Segundo Avance.pptx](docs/avances/avance2_presentation.pptx)
 
 ---
 
 ## 🎓 Artículo Académico
-- [Paper EDM - Métodos de Control.pdf](docs/articulo/articulo_edm.pdf)
-- [Materiales Suplementarios.pptx](docs/articulo/materiales_suplementarios.pptx)
+- [Informe Final.pptx](docs/articulo/materiales_suplementarios.pptx)
 
 ---
 
