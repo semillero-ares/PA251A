@@ -14,7 +14,7 @@ Proyecto académico para el diseño y construcción de una máquina de Electroer
 🔗 [Perfil GitHub](https://github.com/NelsonBayona)
 
 ### Tutor Académico
-**Dr. Davinson Castañoo**   
+**Dr. Davinson Castaño**   
 📧 [dcasta25@eafit.edu.co](mailto:dcasta25@eafit.edu.co)  
 
 ---
