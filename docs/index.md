@@ -24,4 +24,4 @@ Proyecto académico para el diseño y construcción de una máquina de Electroer
 Manufactura avanzada, prototipado rápido y educación en tecnologías de mecanizado no convencional.
 
 **Relevancia académica:**  
-- Proyecto para la materia avanzado I.
+- Proyecto para la materia avanzado I
