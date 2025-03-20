@@ -1,5 +1,5 @@
 # Documentación
-Repositorio de archivos del desarrollo del proyecto
+Repositorio de archivos del desarrollo del proyecto.
 
 ---
 
